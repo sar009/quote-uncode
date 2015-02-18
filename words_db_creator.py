@@ -98,4 +98,4 @@ for i in range(52):
                     length=len(word),
                 )
                 session.add(word)
-                session.commit()
+            session.commit()
